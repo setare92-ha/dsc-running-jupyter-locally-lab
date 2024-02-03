@@ -136,3 +136,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# this extra file of mine
+ignore.yml
